@@ -1,6 +1,6 @@
 # GTASA No Wheel Turn Back
 
-![Mod Preview](screenshot.png)
+![Mod Preview](Screenshot_20260528_070934.jpg)
 
 An Android Modding Library (AML) plugin for *Grand Theft Auto: San Andreas* (Mobile) that patches the steering angle logic, preventing the front wheels from automatically turning back to the center position when you let go of the steering controls.
 
